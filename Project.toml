@@ -1,0 +1,4 @@
+name = "LOICA"
+uuid = "501c8241-e3f6-4a82-a4bf-68e955c7d625"
+authors = ["Gonzalo Vidal <gonzalo.vidal@ncl.ac.uk>", "Carlos Castillo Passi <carlos.castillo_passi@kcl.ac.uk>"]
+version = "0.1.0"
